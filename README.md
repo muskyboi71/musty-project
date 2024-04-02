@@ -1,3 +1,3 @@
 # musty-project
 
-Analyzing Lorem Ipsum
+Analyzing Lorem Ipsum by generating it until it reaches Mars
