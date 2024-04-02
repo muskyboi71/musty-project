@@ -1,3 +1,3 @@
 # musty-project
 
-Analyzing Loren Ipsum
+Analyzing Lorem Ipsum
